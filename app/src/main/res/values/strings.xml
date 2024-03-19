@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Activity</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="father_name">Отчество</string>
+    <string name="age">Возраст</string>
+    <string name="hobby">Хобби</string>
+    <string name="button_next">Дальше</string>
+
+    <string name="info_text">Здесь должна отображаться информация в зависимости от возраста</string>
+
+    <string name="action_save">Сохранить</string>
+    <string name="action_change_background">Изменить фон</string>
+    <string name="action_go_to_screen">Перейти на экран</string>
+</resources>
